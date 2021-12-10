@@ -1,0 +1,11 @@
+{
+    "output": {
+        "encoding": "cp1251",
+        "fname": "result.txt"
+    },
+    "input": {
+        "csv": "good.csv",
+        "encoding": "utf-8",
+        "json": "good.json"
+    }
+}
