@@ -24,6 +24,7 @@ Faculty of Computer Science and Cybernetics (KNU)
     * [OOP [C++]](https://github.com/maxym-ko/unicyb/tree/main/2nd_year/oop)
   * [Semester 4]
     * [Comp Algebra [Matlab]](https://github.com/maxym-ko/unicyb/tree/main/2nd_year/comp_algebra)
+    * [NOS](https://github.com/maxym-ko/unicyb/tree/main/2nd_year/nos)
       
 <td valign="top">
 
@@ -31,6 +32,7 @@ Faculty of Computer Science and Cybernetics (KNU)
     * [Databases [MS Access]](https://github.com/maxym-ko/unicyb/tree/main/3rd_year/db)
     * [Data Analysis [R]](https://github.com/maxym-ko/unicyb/tree/main/3rd_year/data_analysis)
     * [OMO [Java]](https://github.com/maxym-ko/unicyb/tree/main/3rd_year/omo)
+    * [Philosophy](https://github.com/maxym-ko/unicyb/tree/main/3rd_year/philosophy)
   * [Semester 6]
       
        
