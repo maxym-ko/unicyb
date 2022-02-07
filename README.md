@@ -43,3 +43,9 @@ Faculty of Computer Science and Cybernetics (KNU)
 
 </tr>
 </table>
+
+* AOS - Computer system architecture (Arkhitektura obchysliuvalnykh system)
+* OOP - Object-oriented programming (Obiektno-oriientovane prohramuvannia)
+* Comp Algebra - Computer algebra (Kompiuterna alhebra)
+* NOS - Scientific picture of the world (Nakovyi obraz svitu)
+* OMO - Numerical analysis (Osnovy metodiv obchyslen)
